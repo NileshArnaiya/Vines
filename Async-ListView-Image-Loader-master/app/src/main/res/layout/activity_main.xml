@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d1d1d1">
+    <!--<EditText android:id="@+id/inputSearch"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:imeOptions="actionSearch"-->
+    <!--android:hint="Search products.."-->
+    <!--android:inputType="textVisiblePassword"/>-->
+    <com.miguelcatalan.materialsearchview.MaterialSearchView
+        android:id="@+id/search_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ListView
+        android:id="@+id/custom_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="45dp"
+        android:cacheColorHint="#00000000"
+        android:divider="#d1d1d1"
+        android:dividerHeight="10dp"
+        android:paddingTop="10dp"
+        android:scrollbarThumbVertical="@drawable/scrollbar">
+
+
+    </ListView>
+
+</FrameLayout>

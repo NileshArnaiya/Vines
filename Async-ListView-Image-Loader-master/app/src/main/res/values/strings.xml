@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Insta Vines</string>
+
+    <array name="images_array">
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMzUwMjQzMTAzMV5BMl5BanBnXkFtZTcwMzYxMzgzMQ@@._V1._SX140_CR0,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTI3ODA5ODc0MV5BMl5BanBnXkFtZTcwMDM4MjYyMQ@@._V1._SY209_CR4,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMmU3MDZmMzQtZjYzZC00MDk3LTllN2MtZTM0YzVkZjk3MGI5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1._SY209_CR4,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BZWY4ODY3ZTAtODc2NC00ZDQ5LWE2ZTItZWYzOWVhNjU4OTk0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1._SX140_CR0,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BM2VlYjRhOTEtNmJlZi00YjAwLWE0NDAtYzgxNDgzNmVlYjk1XkEyXkFqcGdeQXVyMjU5OTg1NDU@._V1._SY209_CR63,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BNzA2ZDk2ZTUtMWU2Yi00NDVmLTk1ODEtMmFmMjQyNWYzODI0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1._SX140_CR0,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BNTQ0OWE3NzUtOGZlZS00ZDhlLWFlMzktZGU2NmUxZWY1NmJhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1._SY209_CR3,0,140,209_.jpg</item>
+    <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMGM4N2FmMTktZmUyZi00OWNlLWExMzctNDcxNDI3ZTk2NGMxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1._SY209_CR6,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BYWZlZDk4OGMtY2M1NC00NGI2LTlhYzItZWQ3YTZjNGYzMjc2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1._SY209_CR6,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BNGRkMTllZTUtZTQyYi00NjVlLTlhZjEtODExNjQ4YjQ1Y2RjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1._SY209_CR1,0,140,209_.jpg</item>
+   <item>https://images-na.ssl-images-amazon.com/images/M/MV5BNDgzOWJjOTMtZjY4ZS00MGRkLTk0YTMtM2E3ZGQyYmMyYzkzXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1._SY209_CR3,0,140,209_.jpg</item>
+
+     <item>https://images-na.ssl-images-amazon.com/images/M/MV5BY2IxMTFmOGUtNTg4ZS00NTU1LWJjNDktMDUxMjg2ZDQ5NjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTU2Njc3MDA@._V1._SY209_CR1,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BODI0OTc1MTAxM15BMl5BanBnXkFtZTcwNjYxNzYxMQ@@._V1._SY209_CR6,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BOTVhNjY2MGItNDgyYy00Y2E5LWFlZmMtZTljY2Y1MzI0ZGI1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1._SY209_CR3,0,140,209_.jpg</item>
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BMDRlZTlmZmItNmVmMy00MmJiLThkNDQtZTlkMzgzNzBiMGI5XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1._SX140_CR0,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BYjY4ZjI3OGYtZGFlNC00ZmY0LWE3YjgtYTJjZDlhZmVlNjBiXkEyXkFqcGdeQXVyMTg2NzgzMDE@._V1._SY209_CR4,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BODdmZmFlMGUtZWE5NC00NmU5LTg3NzItOTNjNDc4ZTc2YzI1XkEyXkFqcGdeQXVyNjM1MTQ0NTQ@._V1._SY209_CR5,0,140,209_.jpg</item>
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NDIyOTI5MV5BMl5BanBnXkFtZTgwNDc2NjkwMzE@._V1._SY209_CR69,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NTQzNzI0MV5BMl5BanBnXkFtZTcwNTA5NzMwMg@@._V1._SY209_CR4,0,140,209_.jpg</item>
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BMzdlMDMxNzItNmViNS00NDRkLTg3OWMtNjliZGIxY2M5N2YyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1._SY209_CR2,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BZGVhMzBmMTUtZjRmNC00NjVkLTk1YmItMDg5NmNkNmY2MGFiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1._SY209_CR2,0,140,209_.jpg</item>
+   <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MzYwMjk0NV5BMl5BanBnXkFtZTgwMDQ4NDgwMzE@._V1._SY209_CR69,0,140,209_.jpg</item>
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1MTQ0MTAxMl5BMl5BanBnXkFtZTcwNzE2NzAzMQ@@._V1._CR1,17,359,435._SY209_CR16,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BOWEzNTA3MzUtYTkxNC00Njg5LWE3NGEtNzI3NmVlODlmNzExXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1._SY209_CR7,0,140,209_.jpg</item>
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4Mjg1MTc2Nl5BMl5BanBnXkFtZTcwMTUxNjMwMg@@._V1._SY209_CR4,0,140,209_.jpg</item>
+
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk5MjU2NjUxMF5BMl5BanBnXkFtZTcwMzY0OTAwMw@@._V1._SY209_CR13,0,140,209_.jpg</item>
+
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BNzk1MjkzNzIzM15BMl5BanBnXkFtZTcwOTczMzkyMQ@@._V1._SY209_CR30,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4ODAxNTQzMl5BMl5BanBnXkFtZTcwOTc1NTA1MQ@@._V1._SY209_CR3,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BODk0N2UwNGYtMWJiMy00Njk4LTg5NjctNzc1ODhlNDJkNTMxXkEyXkFqcGdeQXVyMzM4NjcxOTc@._V1._SY209_CR3,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BNTM3OTAwODA4MV5BMl5BanBnXkFtZTcwOTMxNDE1MQ@@._V1._SY209_CR5,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0NzkwMTk0OF5BMl5BanBnXkFtZTcwMjYxMTI1MQ@@._V1._SY209_CR1,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BZTdhNmE3OGEtYjc0ZC00ZTM2LWJhYWQtZTliNGM5OWI2Yzc5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1._SY209_CR8,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NDI2MzE3OV5BMl5BanBnXkFtZTcwNjA4NjQyMQ@@._V1._SX140_CR0,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BYzQyNjg5ODMtN2E4OS00NDViLTg0ZjAtNWQxYTRjOTBmNTRmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR3,0,182,268_AL__QL50.jpg</item>
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BNjU1YjM2YzAtZWE2Ny00ZWNiLWFkZWItMDJhMzJiNDQwMmI4XkEyXkFqcGdeQXVyNTU1MjgyMjk@._V1_UY268_CR4,0,182,268_AL__QL50.jpg</item>
+
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BNjYyMDkxOTcyN15BMl5BanBnXkFtZTcwMzU1MDIzMQ@@._V1_UY268_CR4,0,182,268_AL__QL50.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMDE2N2YyMmItYWMxOS00MDk2LThjZmMtNTlhZjk3YTQ3MGE2XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR3,0,182,268_AL__QL50.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3ODI3MDEzMF5BMl5BanBnXkFtZTYwOTM2OTQ5._V1_UY268_CR9,0,182,268_AL__QL50.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BODI3NzY0NzU5NF5BMl5BanBnXkFtZTcwMTUyNzEzMQ@@._V1._CR11,12,363,480_UY268_CR10,0,182,268_AL__QL50.jpg
+        </item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE1NDQwODgxMF5BMl5BanBnXkFtZTcwNzEzMjYyMQ@@._V1_UY268_CR6,0,182,268_AL__QL50.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzNzQzODA4OF5BMl5BanBnXkFtZTYwMDY5NjI5._V1_UX182_CR0,0,182,268_AL__QL50.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwNWY2YmEtZDBjOC00Y2U4LTkyODUtMmZhZGJkMWUxMDlhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR3,0,182,268_AL__QL50.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5ODk1NzYxOF5BMl5BanBnXkFtZTcwNzM1NDYyMQ@@._V1_QL50_.jpg</item>
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BMDFkYjE4ZGYtZDkyNC00ZmFiLWJiMGYtNjlmZWVmYWEwNTZhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR4,0,182,268_AL__QL50.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1._SX140_CR0,0,140,209_.jpg</item>
+    <item>https://images-na.ssl-images-amazon.com/images/M/MV5BZWQ2MDNiNTItYmM3ZS00MmI4LWFlMDQtOGVhYzlhZmZkNzI0L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1._SX140_CR0,0,140,209_.jpg</item>
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4Mjk4Mjg2NV5BMl5BanBnXkFtZTcwMjQwNTkzNA@@._V1._SY209_CR8,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMWQyZTMzOTktYTQxYy00NzE0LWI4MWMtMTQ5NzJkYzFlMmYwXkEyXkFqcGdeQXVyNDQ0NjE1NzI@._V1._SY209_CR139,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BM2RjMjVjYzMtMjNiZS00ODIzLWIwMGUtYWE3YzkyYTA4ZTNjXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY268_CR0,0,182,268_AL__QL50.jpg</item>
+
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NjcwNTkxOV5BMl5BanBnXkFtZTcwNjU5NjMyMQ@@._V1._SX140_CR0,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2NTc0MjQxOV5BMl5BanBnXkFtZTcwMDk1ODAzMQ@@._V1._CR38,0,310,446_UY268_CR2,0,182,268_AL__QL50.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTI5NTcwMDM2Ml5BMl5BanBnXkFtZTcwNDIyMzAzMQ@@._V1._SY209_CR0,0,140,209_.jpg</item>
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM0NTI4MjcyM15BMl5BanBnXkFtZTgwNjI4NDM1NjE@._V1._CR33,1,305,431._SY209_CR4,0,140,209_.jpg</item>
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNTM4MzE0NF5BMl5BanBnXkFtZTcwNTkyNzcxMQ@@._V1._SY209_CR4,0,140,209_.jpg</item>
+
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BODM4NDI3OTcxN15BMl5BanBnXkFtZTgwNjc3MjIwMTI@._V1._SY209_CR0,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1._SY209_CR1,0,140,209_.jpg</item>
+
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEzOTk1MzQwNl5BMl5BanBnXkFtZTcwODE1MDIzMQ@@._V1._SY209_CR4,0,140,209_.jpg</item>
+
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMWQxNWYwNzQtMzVjNy00YWFlLWI4NTEtMDJlYTFiYjM0MjkyXkEyXkFqcGdeQXVyNTk5OTgzMTY@._V1._SY209_CR3,0,140,209_.jpg</item>
+<item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4NDQxMzk4OV5BMl5BanBnXkFtZTcwMzQyMDcyMQ@@._V1._SY209_CR4,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BM2M3YWRkN2MtZDg5OC00NmRmLTliNzctMTBkZjQzZTlkYmQ0XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1._SX140_CR0,0,140,209_.jpg</item>
+    <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NTc4NzA2MF5BMl5BanBnXkFtZTcwMDc0NTQyMQ@@._V1._CR19,2,308,430._SY209_CR5,0,140,209_.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzNzg2Nzk1Ml5BMl5BanBnXkFtZTcwMTUyMzAzMQ@@._V1._SY209_CR21,0,140,209_.jpg</item>
+
+
+
+    </array>
+
+
+    <array name="headline_array">
+        <item>Tiny toon Adventures</item>
+        <item>Bobby\'s world</item>
+        <item>Batman: The Animated series</item>
+        <item>South Park</item>
+        <item>Swat Kats: The Radical Squadron</item>
+        <item>Futurama</item>
+        <item>X-Men</item>
+        <item>Spider-Man</item>
+        <item>Courage the Cowardly Dog</item>
+        <item>Family Guy </item>
+        <item>Superman</item>
+        <item>SpongeBob SquarePants</item>
+        <item>King of the Hill</item>
+        <item>Rugrats</item>
+        <item>Beavis and Butt-Head</item>
+        <item>Hey Arnold!</item>
+        <item>The Powerpuff Girls</item>
+        <item>Animaniacs </item>
+        <item>Doug</item>
+        <item>Dexter\'s Laboratory</item>
+        <item>Daria</item>
+        <item>Ed, Edd, \'n\' Eddy</item>
+        <item>The Ren &amp; Stimpy Show </item>
+        <item>Pinky and the Brain</item>
+        <item>Rocko\'s Modern Life</item>
+        <item>Johnny Bravo</item>
+        <item>Rocket Power</item>
+        <item>Darkwing Duck</item>
+        <item>The Angry Beavers</item>
+        <item>Talespin</item>
+        <item>Dr. Katz, Professional Therapist </item>
+        <item>
+            Space Ghost Coast to Coast</item>
+        <item>The Critic</item>
+        <item>Crayon Shin chan</item>
+        <item>Pokémon</item>
+        <item>Chip \'n\' Dale Rescue Rangers</item>
+        <item>Mr. Bean</item>
+        <item>Tom and Jerry</item>
+        <item>The Pink Panther Show</item>
+        <item>Garfield and Friends</item>
+        <item>The Flintstones</item>
+        <item>Teenage Mutant Ninja Turtles </item>
+        <item>Recess</item>
+        <item>Cow and Chicken</item>
+        <item>The Simpsons</item>
+        <item>Samurai Jack</item>
+        <item>The Fresh Prince of Bel-Air
+        </item>
+        <item>Mr. Dressup</item>
+        <item>
+            Dragon Ball Z</item>
+        <item>
+            Bill Nye, the Science Guy</item>
+        <item>The Muppet Show</item>
+        <item>
+            Wishbone</item>
+        <item>
+            Are You Afraid of the Dark? </item>
+        <item>
+            Mobile Suit Gundam Wing</item>
+        <item>
+            Sesame Street</item>
+        <item>Naruto</item>
+        <item>DuckTales</item>
+        <item>Toad Patrol</item>
+        <item>Pee-wee\'s House</item>
+        <item>
+            Tales from the Crypt </item>
+        <item>
+            The Transformers </item>
+        <item>
+            The Magic School Bus</item>
+
+    </array>
+    <array name="descript_array">
+        <item>The adventures of a new generation of Warner Bros. Looney Tunes characters.</item>
+        <item>A boy named Bobby Generic creates adventures using his overactive imagination</item>
+        <item>The Dark Knight battles crime in Gotham City with occasional help from Robin and Batgirl.</item>
+        <item>Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado. </item>
+        <item>Two demoted fighter pilots battle evil as high flying masked vigilantes.</item>
+        <item>Fry, a pizza guy, is accidentally frozen in 1999 and thawed out New Year\'s Eve 2999. </item>
+        <item>A team of mutant superheroes fight for justice and human acceptance in the Marvel Comics universe.</item>
+        <item>A young man with spider-like abilities fights crime as a superhero in New York City while trying to have a normal personal life.</item>
+        <item>The offbeat adventures of Courage, a cowardly dog who must overcome his own fears to heroically defend his unknowing farmer owners from all kinds of dangers, paranormal events and menaces that appear around their land.</item>
+        <item>In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another. </item>
+        <item>The last son of the planet Krypton protects his adoptive home of Earth as the greatest of the superheroes</item>
+        <item>The misadventures of a talking sea sponge who works at a fast food restaurant under the sea.</item>
+        <item>A straight laced propane salesman in Arlen, Texas tries to deal with the wacky antics of his family and friends, while also trying to keep his son in line.</item>
+        <item>The cartoon misadventures of four babies and their snotty older cousin as they face the things in life they don\'t understand. </item>
+
+        <item>Animated MTV series about two teenage heavy-metal music fans who occasionally do idiotic things because they\'re bored. For them, everything is "cool" or "sucks."</item>
+        <item>The everyday life of Arnold, a 4th-grader in a nameless city that resembles Brooklyn, New York, who lives in a multi-racial boarding house with his grandparents and a motley assortment of neighbors and friends.</item>
+        <item>Three super-powered little girls constantly save the world (or at least the city of Townsville) from monsters, would-be conquerers and a few other gross things.</item>
+        <item>Ensemble cast of off-the-wall Warner Brothers characters, appearing in a wide variety of roles.</item>
+        <item>The life of a young boy as he meets friends, falls in love, maneuvers his way through grade 6 and writes all about it in his journal.</item>
+        <item>The misadventures of a boy genius and his annoying sister.</item>
+        <item>A smart and cynical girl goes through teenage life as a proud outsider in a world of mainly idiotic adolescents and condescending adults.</item>
+        <item>The off-the-wall, day-to-day life of three friends who have exactly the same name.</item>
+        <item>The gross misadventures of a hyper chihuahua and a stupid cat. </item>
+        <item>A genius mouse and his stupid sidekick try to conquer the world each night.</item>
+        <item>The wacky misadventures of an Australian wallaby and his friends as he finishes his transition to American life.</item>
+<item>The misadventures of a dumb blond egomanaic who is deluded about his own manliness.</item>
+        <item>Four friends and their daily lives of playing extreme sports, surfing, and getting into some crazy situations.</item>
+    <item>A bumbling superhero battles crime with the help of his daughter and pilot sidekick.</item>
+        <item>The wacky and sometimes surreal adventures of Norbert and Daggett Beaver. </item>
+        <item>Baloo the Bear from the Jungle Book is cast as a 1930\'s Pacific Islands bush pilot.</item>
+        <item>A divorced father, he has custody of his 23-year-old slacker son Ben, who dreams of wealth and freedom but is too lazy to find a real job</item>
+        <item>Space Ghost in his 40s is no longer a superhero, and now he even goes by his real name Tad Ghostal.</item>
+        <item>Jay Sherman is a New York film critic who has to review films he doesn\'t like for a living.</item>
+
+        <item>About a 6 years old kid name Shin-chan who is always create havoc with people around him. He also have a taste with older woman.</item>
+        <item>The adventures of Ash Ketchum and his partner Pikachu, who travel across many regions in hopes of being regarded as a Pokemon master.</item>
+<item>
+    Disney\'s fun-loving chipmunks are reimagined as the leaders of a team of detectives/crime-fighters, rounding out the team are two mice, Gadget Hackwrench and Monterey Jack and Zipper, a fly.
+</item>
+        <item>Life is a difficult challenge for Mr Bean, who despite being a grown adult, has trouble completing even the simplest of tasks. Thankfully, his perseverance is usually rewarded, and he finds an ingenious way around the problem.</item>
+        <item>The Hanna-Barbera-created Oscar-winning cat-and-mouse team of Tom &amp; Jerry returned to TV in an hour-long stretch of new adventures. </item>
+        <item>The Pink Panther is a heroic, moral cartoon cat with pink fur and the manners of an English aristocrat. He only becomes flustered or angry at obtuse or offensive humans</item>
+        <item>Stories about Garfield the cat, Odie the dog, their owner Jon and the trouble they get into, and Orson the Pig and his adventures on a farm with fellow farm animals.</item>
+        <item>The misadventures of two modern-day Stone Age families, the Flintstones and the Rubbles.</item>
+        <item>The adventures of a quartet of humanoid warrior turtles and their friends.</item>
+        <item>Comic tales of a group of good friends, 4 boys and 2 girls, during breaks in primary school, as they grow up, relate to each other, and have brushes with authority.</item>
+        <item>The program focuses on the misadventures of two unlikely yet somehow biological siblings: Cow and Chicken.</item>
+        <item>The satiric adventures of a working-class family in the misfit city of Springfield. </item>
+        <item>A samurai sent through time fights to return home and save the world.</item>
+        <item>The Banks family, a respectable Californian family, take in a relative - Will Smith, a street-smart teenager from Philadelphia. The idea is to make him respectable, responsible and mature, but Will has got other plans</item>
+        <item>An amiable man teaches preschool subjects with his puppet friends with games, songs and the infinite number of costumes inside his tickle trunk. </item>
+        <item>After learning that he is from another planet, a warrior named Goku and his friends are prompted to defend it from an onslaught of extraterrestrial enemies.</item>
+        <item>Scientist/comedian Bill Nye explores various aspects of science for young viewers.</item>
+        <item>Kermit the Frog and his friends struggle to put on a weekly variety show.</item>
+<item>An intelligent and witty dog imagines himself in the role of characters from classic books and gets involved in similar real-life adventures. </item>
+        <item>A group of kids get together in the woods, and tell ghost stories.</item>
+        <item>A squadron of giant robot pilots of a beleaguered Earth colony bring the war to their oppressive home planet.</item>
+        <item>On a special inner city street, the inhabitants, both human and puppet, teach preschool subjects with comedy, cartoons, games and songs.</item>
+        <item>Follows the struggles of three young ninjas - Naruto Uzumaki, Sasuke Uchiha and Sakura Haruno - as they go through their training. </item>
+        <item>The globe-trotting treasure-hunting money-making adventures of billionaire Scrooge McDuck and his nephews.</item>
+<item>A group of toadlets (young toads) find themselves trapped in a forest after missing the migration to Toad Hollow</item>
+        <item>Pee-Wee Herman and his friends have wacky, imaginative fun in his unique playhouse. </item>
+        <item>Tales of horror based on the gruesome E.C. comic books of the 1950s.</item>
+        <item>Two opposing factions of transforming alien robots engage in a battle that has the fate of Earth in the balance.</item>
+  <item>An eccentric school-teacher takes her class on wondrous educational field trips with the help of a magical school bus.</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </array>
+
+    <string-array name="query_suggestions">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>SCALA</item>
+        <item>Ruby</item>
+        <item>JavaScript</item>
+    </string-array>
+
+
+
+</resources>
